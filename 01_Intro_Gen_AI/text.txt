@@ -27,3 +27,63 @@ LLMs work by converting input text into tokens,
 analyzing patterns learned during training, and generating 
 output by predicting the next token step-by-step.
 
+4. Models and Capabilities 
+🧠 1. What are Models?
+
+In AI, a model is the trained system (brain) 
+that learns from data and performs tasks.
+Example :-- ChatGPT , Claude , Gemini , Grok
+
+GPT (Generative Pre-trained Transformer) models are general-purpose LLMs designed to:
+
+-> understand language
+-> generate human-like text
+-> respond quickly
+
+👉 They work mainly using pattern recognition + next-word prediction.
+
+Reasoning models are advanced LLMs designed to:
+
+think step-by-step
+solve complex problems
+use logic and planning
+
+👉 They don’t just answer—they “think before answering”
+
+✅ Key features:
+Break problems into steps
+Perform logical reasoning
+More accurate for complex tasks
+
+📌 Example uses:
+
+Math problems
+Coding & debugging
+Scientific reasoning
+
+👉 These models use internal “thinking tokens” to plan solutions before responding.
+
+
+5. Tokens 
+A token is the smallest unit of text (word, part of a word, or character)
+that a language model uses to understand and generate language.
+
+👉 Tokens can be words, parts of words, or even characters. It depends 
+on the type of model and how it is designed to 
+understand and process language.
+
+👉 Tokenization is the process of breaking a sentence (or text) 
+into smaller units called tokens so that LLMs can understand, 
+analyze patterns, and process the input effectively.
+
+
+6. Context 
+Context is the amount of information (measured in tokens) 
+that an LLM can consider at once while understanding input and 
+generating output.
+
+
+7. Context Window 
+A context window is the maximum number of tokens 
+an LLM can consider at once while understanding input and generating output.
+
