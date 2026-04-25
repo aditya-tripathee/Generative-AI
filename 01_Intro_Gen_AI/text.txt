@@ -1,0 +1,29 @@
+1. What is Generative AI?
+Generative AI (GenAI) is a type of artificial intelligence 
+that can create new content—such as text, images, music, videos, or code—by 
+learning patterns from large amounts of data during the training phase 
+and then generating new outputs based on that learning.
+
+2. LLM :-- Large Language Models
+Large Language Models (LLMs) are advanced AI systems that can understand,
+process, and generate human-like text by learning from massive amounts of data.
+
+3. How LLMs models works ?
+Large Language Models (LLMs) work by taking user input, 
+breaking it into tokens, analyzing patterns learned during training,
+and then predicting the next most probable token repeatedly to generate 
+a complete response.
+
+-> Input is tokenized
+Text is broken into tokens (words/subwords)
+-> Model analyzes context
+Uses transformer + attention to understand relationships
+-> Predicts next token
+Chooses the most probable next word/token
+-> Repeats the process
+Token by token until full answer is generated
+
+LLMs work by converting input text into tokens, 
+analyzing patterns learned during training, and generating 
+output by predicting the next token step-by-step.
+
