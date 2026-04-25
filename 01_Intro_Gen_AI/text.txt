@@ -87,3 +87,9 @@ generating output.
 A context window is the maximum number of tokens 
 an LLM can consider at once while understanding input and generating output.
 
+
+8. Inference
+Inference is the process of generating output from a 
+trained model based on new input, 
+using patterns learned from large datasets during training.
+
