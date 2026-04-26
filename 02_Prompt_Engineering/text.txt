@@ -3,3 +3,18 @@ Designing and structuring inputs (prompts) in a way that helps Large Language Mo
 (LLMs) like ChatGPT or Gemini clearly understand the task and generate accurate, 
 relevant, and high-quality outputs.
 
+2. Hallucination
+“Hallucination is when an AI generates false or misleading 
+information but presents it confidently as correct.
+
+
+Types of Prompting :--
+Zero shot Prompting :-- Zero-shot prompting means asking an AI model 
+to perform a task using only instructions, without providing any examples.
+
+“Few-shot prompting is a technique where we provide a small number of examples along with 
+instructions so the model can learn the pattern and perform the task.”
+
+“Chain-of-thought prompting is a technique where we 
+encourage the model to reason step by step before giving the final answer.”
+
