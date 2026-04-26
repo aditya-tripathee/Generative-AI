@@ -1,0 +1,5 @@
+1. Prompt Engineering 
+Designing and structuring inputs (prompts) in a way that helps Large Language Models 
+(LLMs) like ChatGPT or Gemini clearly understand the task and generate accurate, 
+relevant, and high-quality outputs.
+
