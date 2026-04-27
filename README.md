@@ -31,6 +31,24 @@ Master the art of designing effective prompts to get the best results from LLMs.
   - Few-shot Prompting - Learning from provided examples
   - Chain-of-thought Prompting - Step-by-step reasoning techniques
 
+### 3. **03_LLM** - Large Language Models Deep Dive
+Explore the practical implementation and utilization of Large Language Models.
+
+**Topics Covered:**
+- **LLM Architectures** - Understanding how modern LLMs are built
+- **Model Training & Fine-tuning** - Adapting LLMs for specific tasks
+- **Working with APIs** - Integrating LLMs into applications
+- **Practical Applications** - Real-world use cases and examples
+- **Node.js Integration** - Building applications with JavaScript/Node.js
+
+### 4. **04_Projects** - Hands-On Projects
+Apply your knowledge through real-world projects combining concepts from all sections.
+
+**Project Focus:**
+- **Generative AI Applications** - Building practical systems with LLMs
+- **End-to-End Integration** - Combining prompt engineering with API usage
+- **Production-Ready Code** - Best practices for deploying AI solutions
+
 ---
 
 ## 🎯 Learning Objectives
@@ -48,8 +66,10 @@ By working through this material, you will understand:
 
 1. Start with **01_Intro_Gen_AI** to build foundational knowledge
 2. Progress to **02_Prompt_Engineering** to learn practical techniques
-3. Each section contains detailed explanations and key concepts
-4. Use the knowledge to create more effective prompts in real-world applications
+3. Dive into **03_LLM** for advanced implementation details
+4. Complete hands-on projects in **04_Projects** to solidify your understanding
+5. Each section contains detailed explanations and key concepts
+6. Use the knowledge to create more effective prompts and build AI applications in real-world scenarios
 
 ---
 
