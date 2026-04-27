@@ -2,7 +2,6 @@ import OpenAI from "openai";
 import dotenv from "dotenv"
 dotenv.config();
 
-
 const client = new OpenAI({
   apiKey: process.env.GROQ_API_KEY,
   baseURL: process.env.BASE_URL,
@@ -10,6 +9,8 @@ const client = new OpenAI({
 
 const response = await client.responses.create({
   model: "openai/gpt-oss-20b",
+  temperature:1, // temperature shoule be between from 0 to 2 and middle one is 1 which gives relatistics values and output 
+  
   input:[
     {
        role:"system",
@@ -17,7 +18,7 @@ const response = await client.responses.create({
     },
     {
         role:"user",
-        content: "Who are you ? Can you tell me your name?",
+        content: "Who are you ? Can you tell me your name? What is llm models ?",
     }
   ],
   

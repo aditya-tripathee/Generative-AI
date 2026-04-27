@@ -3,3 +3,21 @@ Invoking an LLM means sending a request to a language model (via API or function
 to generate a response based on given input.
 
 
+LLM settings :--
+
+✅ Temperature
+👉 Output ki randomness control karta hai
+👉 Low = accurate, High = creative
+
+✅ Top_p
+👉 Sirf top probable words ke group me se next word choose hota hai
+👉 Low = focused, High = diverse
+
+✅ Max Tokens
+👉 Output kitna lamba hoga uski limit
+👉 Limit cross hote hi generation stop
+
+✅ Stop
+👉 Specific word/pattern aate hi output turant ruk jaata hai
+👉 “Pattern mila = output band”
+
